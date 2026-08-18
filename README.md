@@ -2,7 +2,7 @@
 
 
 
-# 🐘 Lista 1: Conceitos Básicos de PHP
+## Lista 1: Conceitos Básicos de PHP
 
 > **Componente Curricular:** Programação Back-end  
 > **Curso:** Técnico em Desenvolvimento de Sistemas  
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Sobre o Repositório
+##  Sobre o Repositório
 
 Este repositório contém a resolução da **Lista 1 de Exercícios de Programação Back-end**, focada nos conceitos fundamentais da linguagem **PHP**. 
 
@@ -19,7 +19,7 @@ O objetivo principal das atividades é praticar a sintaxe básica da linguagem, 
 
 ---
 
-## 📂 Estrutura de Arquivos
+##  Estrutura de Arquivos
 
 ```bash
 .
@@ -33,7 +33,7 @@ O objetivo principal das atividades é praticar a sintaxe básica da linguagem, 
 
 ---
 
-## 💻 Exercícios Desenvolvidos
+##  Exercícios Desenvolvidos
 
 ### 1. Cálculo de Preço e Desconto (`1_preco.php`)
 * **Objetivo:** Calcular o valor total de uma compra com base no preço unitário e na quantidade. Se o valor total for maior ou igual a **R$ 200,00**, aplica-se um desconto de **10%**.
@@ -182,7 +182,7 @@ if ($resultadoIMC < 18.5) {
 
 ---
 
-## 🚀 Como Executar os Arquivos
+##  Como Executar os Arquivos
 
 ### Opção 1: Pelo Terminal (CLI PHP)
 Certifique-se de ter o PHP instalado em sua máquina e execute no terminal:
@@ -203,7 +203,7 @@ Acesse no navegador: `http://localhost:8000/1_preco.php`
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **PHP** (v8.x)
 - **VS Code** (com extensão PHP Intelephense)
