@@ -211,4 +211,4 @@ Acesse no navegador: `http://localhost:8000/1_preco.php`
 
 ---
 
-Developed for **SENAI - Escola "A. Jacob Lafer"** | Curso Técnico em Desenvolvimento de Sistemas
+densenvolvido no **SENAI - Escola "A. Jacob Lafer"** | Curso Técnico em Desenvolvimento de Sistemas
