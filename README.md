@@ -6,7 +6,7 @@
 
 Repositório com a resolução dos exercícios de PHP da disciplina de Programação Back-end (SENAI "A. Jacob Lafer").
 
-## 📁 Exercícios
+## Exercícios
 
 * **`1_preco.php`**: Calcula o valor total da compra e aplica 10% de desconto para compras de R$ 200,00 ou mais.
 * **`2_aprovacao.php`**: Valida aprovação escolar (média ≥ 6.0 e faltas ≤ 15) utilizando operador lógico `&&`.
